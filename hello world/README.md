@@ -1,0 +1,1 @@
+input str，output hello,str。

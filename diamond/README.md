@@ -1,0 +1,1 @@
+input the number,output the length num to diamond。

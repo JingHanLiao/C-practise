@@ -1,0 +1,1 @@
+input char: S , R , P，output rock paper scissors game result。
